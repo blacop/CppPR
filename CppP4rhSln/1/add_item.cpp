@@ -27,6 +27,7 @@
  * 	Fax: (617) 848-7047
 */ 
 
+#include "stdafx.h"
 #include <iostream>
 #include "Sales_item.h"
 

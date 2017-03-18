@@ -26,6 +26,7 @@
  * 	Boston, MA 02216
  * 	Fax: (617) 848-7047
 */ 
+#include "stdafx.h"
 
 int main() 
 {
