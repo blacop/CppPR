@@ -15,24 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="stdafx.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="targetver.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="Sales_item.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="stdafx.cpp">
+    <ClCompile Include="add.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="1.cpp">
+    <ClCompile Include="add_item.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="add_item2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="avg_price.cpp">
@@ -62,14 +51,10 @@
     <ClCompile Include="whilecount.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="add.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="add_item.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="add_item2.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Sales_item.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
